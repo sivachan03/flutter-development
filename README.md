@@ -1,5 +1,5 @@
 # CARD CONNECT
-![App Screenshot](images/ss.jpeg)
+![App Screenshot](images/ss.png)
 <p align="center">
-  <img src="images/ss.jpeg" width="300">
+  <img src="images/ss.png" width="300">
 </p>
